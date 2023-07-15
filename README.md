@@ -17,7 +17,7 @@
 </div>
 <div id="languages_and_tools">
   <h3>Languages and Tools</h3>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-plain.svg" alt="Git" width=70>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-plain.svg" alt="Git" width=50 height=50>
 </div>
 
 
