@@ -29,6 +29,10 @@
   <div align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fadegor05&theme=github_dark">
   </div>
+  <div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=fadegor05&theme=github_dark">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=fadegor05&theme=github_dark">
+  </div>
 </div>
 
 
