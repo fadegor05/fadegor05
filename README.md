@@ -24,5 +24,12 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mysql/mysql-plain.svg" alt="MySQL" width=50 height=50>
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-plain.svg" alt="Git" width=50 height=50>
 </div>
+<div id="languages_and_tools">
+  <h3>My stats</h3>
+  <div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fadegor05&theme=github_dark">
+  </div>
+</div>
+
 
 
