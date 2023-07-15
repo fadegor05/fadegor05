@@ -1,22 +1,19 @@
 <div id="header" align="center">
   <h1>Hi, there. My name is Egor</h1>
-  <h3>Person that really excited of coding🌱</h3>
+  <h3>Coding is kind of art🎥</h3>
   <a href="https://t.me/fadegor05">
   <img src="https://img.shields.io/badge/-telegram-red?color=white&logo=telegram&logoColor=black" alt="Telegram Badge"/>
   </a>
 </div>
+<div id="about_me">
+  <h3>Few words about me</h3>
+  I'm 15 years old developer from Russia 🔭 Like coding some things in free time 📅
+  <ul>
+    <li>⚡Currently learning about <b>Flask</b></li>💬
+    <li>🌱Having a little friendly minecraft project <b>CubeStudio</b></li>
+    <li>📫Reach me using <a href="https://t.me/fadegor05">Telegram</a></li>
+    <li>✨Speak English on <b>B1</b> level</li>
+</ul>
+</div>
 
-<!--
-**fadegor05/fadegor05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
