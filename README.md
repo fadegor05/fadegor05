@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <h1>Hi, there. My name is Egor</h1>
-  <h3>Person really excited of coding🌱</h3>
-  <a href="your-youtube-URL">
+  <h3>Person that really excited of coding🌱</h3>
+  <a href="https://t.me/fadegor05">
   <img src="https://img.shields.io/badge/-telegram-red?color=white&logo=telegram&logoColor=black" alt="Telegram Badge"/>
   </a>
 </div>
