@@ -7,7 +7,7 @@
 </div>
 <div id="about_me">
   <h3>Few words about me</h3>
-  I'm 15 years old developer from Russia 🔭 Like coding some things in free time 📅
+  I'm young developer from Russia 🔭 Like coding some things in free time 📅
   <ul>
   <li>⚡Currently learning <b>Flask</b></li>
   <li>🌱Having a little friendly minecraft project <b>CubeStudio</b></li>
