@@ -9,7 +9,7 @@
   <h3>Few words about me</h3>
   I'm young developer from Russia 🔭 Like coding some things in free time 📅
   <ul>
-  <li>⚡Currently learning <b>Flask</b>, <b>Java</b></li>
+  <li>⚡Currently learning <b>Flask</b>, <b>JavaScript</b></li>
   <li>🌱Having a little friendly minecraft project <b>CubeStudio</b></li>
   <li>📫Reach me using <a href="https://t.me/fadegor05">Telegram</a></li>
   <li>🌍Speak English on <b>B1</b> level</li>
@@ -21,6 +21,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original.svg" alt="Python" width=50 height=50>
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-plain.svg" alt="HTML" width=50 height=50>
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-plain.svg" alt="CSS" width=50 height=50>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="JS" width=50 height=50>
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mysql/mysql-plain.svg" alt="MySQL" width=50 height=50>
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-plain.svg" alt="Git" width=50 height=50>
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/docker/docker-plain.svg" alt="Docker" width=50 height=50>
