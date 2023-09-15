@@ -1,6 +1,6 @@
 <div id="header" align="center">
   <h1>Hi, there. My name is Egor✨</h1>
-  <h3>Coding is kind of art🎥</h3>
+  <h3>Trying to change something in coding world🎥</h3>
   <a href="https://t.me/fadegor05">
   <!--<img src="https://img.shields.io/badge/-telegram-red?color=white&logo=telegram&logoColor=black" alt="Telegram Badge"/>-->
   </a>
