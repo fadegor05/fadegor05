@@ -9,7 +9,7 @@
   I'm young developer from Russia 🔭 Like coding some things in free time 📅
   <ul>
   <li>⚡Currently learning <b>Java</b></li>
-  <li>🌱Having a little friendly minecraft project <b>CubeStudio</b></li>
+  <li>🌱Having a little friendly SMP Minecraft server <b><a href="https://fadegor05.github.io/CubeStudio">CubeStudio</a></b></li>
   <li>📫Reach me using <a href="https://t.me/fadegor05">Telegram</a></li>
   <li>🌍Speak English on <b>B1</b> level</li>
 </ul>
