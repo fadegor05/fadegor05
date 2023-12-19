@@ -6,10 +6,10 @@
 </div>
 <div id="about_me">
   <h3>Few words about me</h3>
-  I'm developer from Russia, like code some cool stuff in free time.
+  I'm backend developer from Russia, like code some cool stuff in free time.
   <ul>
   <li>Speak English on <b>B1</b> level</li>
-  <li>Currently learning <b>Java</b></li>
+  <li>Currently learning <b>Fast API, SQLAlchemy</b></li>
   <li>Have a little friendly SMP Minecraft server <b><a href="https://fadegor05.github.io/CubeStudio">CubeStudio</a></b></li>
   <li>Reach me using <b><a href="https://t.me/fadegor05">Telegram</a></b></li>
   
