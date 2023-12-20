@@ -6,7 +6,7 @@
 </div>
 <div id="about_me">
   <h3>Few words about me</h3>
-  I'm backend developer from Russia, like code some cool stuff in free time.
+  I'm Backend / Java developer from Russia, like code some cool stuff in free time.
   <ul>
   <li>Speak English on <b>B1</b> level</li>
   <li>Currently learning <b>Everything</b></li>
