@@ -17,7 +17,7 @@
 </div>
 <div id="languages_and_tools">
   <h3>My Stack</h3>
-  <b>Java Core, PaperMC plugins, Flask, Python, HTML, CSS, JavaScript, MySQL, Git, Docker</b>
+  <b>Java Core, PaperMC plugins, Flask, Python, JavaScript, MySQL, Git, Docker</b>
 </div>
 <div id="stats">
   <h3>My Stats</h3>
