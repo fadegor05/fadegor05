@@ -17,8 +17,16 @@
 </div>
 <div id="languages_and_tools">
   <h3>My Stack</h3>
+  <img src="./python.png" height=80>
   <img src="./django.png" height=80>
-  <b>Java Core, PaperMC plugins, Flask, Python, JavaScript, MySQL, Git, Docker</b>
+  <img src="./flask.png" height=80>
+  <img src="./sqla.png" height=80>
+  <img src="./javascript.png" height=80>
+  <img src="./docker.png" height=80>
+  <img src="./git.png" height=80>
+  <img src="./linux.png" height=80>
+  <img src="./java.png" height=80>
+  <img src="./papermc.png" height=80>
 </div>
 <div id="stats">
   <h3>My Stats</h3>
