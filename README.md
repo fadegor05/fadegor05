@@ -17,6 +17,7 @@
 </div>
 <div id="languages_and_tools">
   <h3>My Stack</h3>
+  <img src="./django.png" height=80>
   <b>Java Core, PaperMC plugins, Flask, Python, JavaScript, MySQL, Git, Docker</b>
 </div>
 <div id="stats">
