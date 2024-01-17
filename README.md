@@ -18,7 +18,7 @@
 <div id="languages_and_tools">
   <h3>My Stack</h3>
   <div align="center">
-  <img src="./python.png" height=60>
+  <img src="./python.png" height=60 style="padding:10px">
   <img src="./django.png" height=60>
   <img src="./flask.png" height=60>
   <img src="./sqla.png" height=60>
