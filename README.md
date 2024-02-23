@@ -6,11 +6,12 @@
 </div>
 <div id="about_me">
   <h3>Few words about me</h3>
-  I'm Developer from Russia, like code some cool stuff in free time.
+  I'm Developer from <b>Samara, Russia</b>. Like code some cool stuff in free time.
   <ul>
-  <li>Speak English on <b>B1</b> level</li>
-  <li>Currently learning <b>Everything</b></li>
-  <li>Have a little friendly SMP Minecraft server <b><a href="https://fadegor05.github.io/CubeStudio">CubeStudio</a></b></li>
+  <li>Speak English <b>(B1)</b>, Russian <b>(Native)</b></li>
+  <li>Currently learning <b>Lot's of things</b></li>
+  <li>Have a little SMP Minecraft server <b><a href="https://fadegor05.github.io/CubeStudio">CubeStudio</a></b></li>
+  <li>Ready for invitations to collaborate on projects</li>
   <li>Reach me using <b><a href="https://t.me/fadegor05">Telegram</a></b></li>
   
 </ul>
