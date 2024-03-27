@@ -29,6 +29,7 @@
   <img src="./docker.png" height=60>
   <img src="./git.png" height=60>
   <img src="./linux.png" height=60>
+  <img src="./nginx.png" height=60>
   <img src="./papermc.png" height=60>
   </div>
 </div>
