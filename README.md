@@ -20,12 +20,14 @@
   <h3>My Stack</h3>
   <div align="center">
   <img src="./python.png" height=60>
-  <img src="./django.png" height=60>
+  <img src="./aiogram.png" height=60>
   <img src="./fastapi.png" height=60>
   <img src="./flask.png" height=60>
   <img src="./sqla.png" height=60>
   <img src="./javascript.png" height=60>
   <img src="./vuejs.png" height=60>
+  <img src="./vite.png" height=60>
+  <img src="./tailwindcss.png" height=60>
   <img src="./docker.png" height=60>
   <img src="./git.png" height=60>
   <img src="./linux.png" height=60>
