@@ -49,4 +49,6 @@
   <h2>Achievements</h2>
   <h3>Finalist</h3>
   <li>PROD 2024 (Industrial Development Olympiad)</li>
+  <h3>Participant</h3>
+  <li>Health Samurai Summer Hackathon 2024 (<a href="https://github.com/NewTravelLife/summerhack2024">Repo</a>)</li>
 </div>
