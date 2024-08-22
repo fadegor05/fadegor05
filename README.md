@@ -35,11 +35,8 @@
 <div id="stats">
   <h2>My Stats</h2>
   <div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fadegor05&theme=github_dark">
-  </div>
-  <div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=fadegor05&theme=github_dark">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=fadegor05&theme=github_dark">
+  <img height="220px" src="https://github-readme-stats.vercel.app/api?username=fadegor05&show_icons=true&theme=github_dark">
+  <img height="220px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fadegor05&layout=donut&theme=github_dark">
   </div>
 </div>
 <div>
