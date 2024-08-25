@@ -35,6 +35,9 @@
 <div id="stats">
   <h2>My Stats</h2>
   <div align="center">
+  <img height="200px" src="https://streak-stats.demolab.com?user=fadegor05&theme=github-dark-blue&card_width=808&card_height=200">
+  </div>
+  <div align="center">
   <img height="200px" src="https://github-readme-stats.vercel.app/api?username=fadegor05&show_icons=true&theme=github_dark">
   <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fadegor05&layout=donut&theme=github_dark">
   </div>
