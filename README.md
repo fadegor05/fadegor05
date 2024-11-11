@@ -48,4 +48,5 @@
   <li>PROD 2024 (Industrial Development Olympiad)</li>
   <h3>Participant</h3>
   <li>Health Samurai Summer Hackathon 2024 (<a href="https://github.com/NewTravelLife/summerhack2024">Repo</a>)</li>
+  <li>PROD 2024 Hackathon Moscow (Industrial Development Olympiad)</li>
 </div>
