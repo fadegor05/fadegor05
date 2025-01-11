@@ -43,6 +43,10 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 
+<div align="center">
+  <img src="mewing-true-facts.gif"/>
+</div>
+
 ## `Stats`
 
 <div align="center">
