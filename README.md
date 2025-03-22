@@ -59,6 +59,10 @@
 
 ## `Achievements`
 
+### `Awardee`
+
+- PROD 2025 (Industrial Development Olympiad)
+
 ### `Finalist`
 
 - PROD 2024 (Industrial Development Olympiad)
