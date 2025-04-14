@@ -47,6 +47,19 @@
   <img src="mewing-true-facts.gif"/>
 </div>
 
+## `My Minecraft Network`
+
+<div align="center">
+  <img src="logo.svg" height="200px"/>
+</div>
+
+### `srv@cubeshield~# fastfetch`
+  `Lots of custom features and more ✨` `It is here ->` [check it out](https://github.com/CubeShield)
+
+
+
+
+
 ## `Stats`
 
 <div align="center">
