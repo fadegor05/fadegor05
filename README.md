@@ -50,11 +50,13 @@
 ## `My Minecraft Network`
 
 <div align="center">
-  <img src="logo.svg" height="200px"/>
+  <img src="logo.png" height="100px"/>
+  
+  ### `srv@cubeshield~# fastfetch`
+  `Lots of custom features and more ✨` `Join us ->` [Landing Page](https://fadegor05.github.io/CubeStudio/) `/` [GitHub](https://github.com/CubeShield)
 </div>
 
-### `srv@cubeshield~# fastfetch`
-  `Lots of custom features and more ✨` `It is here ->` [check it out](https://github.com/CubeShield)
+
 
 
 
