@@ -2,7 +2,7 @@
   <img src="spinning-skull.gif"/>
   
   ### `mac@fadegor05~# rm -rf`
-  `Samara, Russia 🇷🇺`
+  `Moscow, Russia 🇷🇺`
   `contact me ->` [Telegram](https://t.me/fadegor05)
 </div>
 
